@@ -1,5 +1,5 @@
 require_relative "./buffalo_events/version"
-#require "buffalo_events/cli"
+require_relative "./buffalo_events/cli"
 
 
 module BuffaloEvents
